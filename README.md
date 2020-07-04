@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
 
-<img src="Image/display.png" height=50% width=50%>
+<img src="Images/screenshot.png" height=50% width=50%>
 
 ## Features
 
