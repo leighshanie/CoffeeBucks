@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/xinyili/GitHub/iOS Dev/CoffeeBucks/CoffeeBucks.xcodeproj">
    </FileRef>
 </Workspace>

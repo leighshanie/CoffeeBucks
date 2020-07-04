@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BA4D4E9E24B07A5B00F9BBE3 /* OrderItApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4D4E8B24B07A5900F9BBE3 /* OrderItApp.swift */; };
-		BA4D4E9F24B07A5B00F9BBE3 /* OrderItApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4D4E8B24B07A5900F9BBE3 /* OrderItApp.swift */; };
+		BA4D4E9E24B07A5B00F9BBE3 /* CoffeeBucksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4D4E8B24B07A5900F9BBE3 /* CoffeeBucksApp.swift */; };
+		BA4D4E9F24B07A5B00F9BBE3 /* CoffeeBucksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4D4E8B24B07A5900F9BBE3 /* CoffeeBucksApp.swift */; };
 		BA4D4EA024B07A5B00F9BBE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4D4E8C24B07A5900F9BBE3 /* ContentView.swift */; };
 		BA4D4EA124B07A5B00F9BBE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4D4E8C24B07A5900F9BBE3 /* ContentView.swift */; };
 		BA4D4EA224B07A5B00F9BBE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA4D4E8D24B07A5B00F9BBE3 /* Assets.xcassets */; };
@@ -16,12 +16,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BA4D4E8B24B07A5900F9BBE3 /* OrderItApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderItApp.swift; sourceTree = "<group>"; };
+		BA4D4E8B24B07A5900F9BBE3 /* CoffeeBucksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeBucksApp.swift; sourceTree = "<group>"; };
 		BA4D4E8C24B07A5900F9BBE3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA4D4E8D24B07A5B00F9BBE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BA4D4E9224B07A5B00F9BBE3 /* OrderIt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrderIt.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA4D4E9224B07A5B00F9BBE3 /* CoffeeBucks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoffeeBucks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA4D4E9524B07A5B00F9BBE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BA4D4E9A24B07A5B00F9BBE3 /* OrderIt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrderIt.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA4D4E9A24B07A5B00F9BBE3 /* CoffeeBucks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoffeeBucks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA4D4E9C24B07A5B00F9BBE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA4D4E9D24B07A5B00F9BBE3 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,7 +57,7 @@
 		BA4D4E8A24B07A5900F9BBE3 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				BA4D4E8B24B07A5900F9BBE3 /* OrderItApp.swift */,
+				BA4D4E8B24B07A5900F9BBE3 /* CoffeeBucksApp.swift */,
 				BA4D4E8C24B07A5900F9BBE3 /* ContentView.swift */,
 				BA4D4E8D24B07A5B00F9BBE3 /* Assets.xcassets */,
 			);
@@ -67,8 +67,8 @@
 		BA4D4E9324B07A5B00F9BBE3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BA4D4E9224B07A5B00F9BBE3 /* OrderIt.app */,
-				BA4D4E9A24B07A5B00F9BBE3 /* OrderIt.app */,
+				BA4D4E9224B07A5B00F9BBE3 /* CoffeeBucks.app */,
+				BA4D4E9A24B07A5B00F9BBE3 /* CoffeeBucks.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -107,7 +107,7 @@
 			);
 			name = iOS;
 			productName = iOS;
-			productReference = BA4D4E9224B07A5B00F9BBE3 /* OrderIt.app */;
+			productReference = BA4D4E9224B07A5B00F9BBE3 /* CoffeeBucks.app */;
 			productType = "com.apple.product-type.application";
 		};
 		BA4D4E9924B07A5B00F9BBE3 /* macOS */ = {
@@ -124,7 +124,7 @@
 			);
 			name = macOS;
 			productName = macOS;
-			productReference = BA4D4E9A24B07A5B00F9BBE3 /* OrderIt.app */;
+			productReference = BA4D4E9A24B07A5B00F9BBE3 /* CoffeeBucks.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -144,7 +144,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BA4D4E8924B07A5900F9BBE3 /* Build configuration list for PBXProject "OrderIt" */;
+			buildConfigurationList = BA4D4E8924B07A5900F9BBE3 /* Build configuration list for PBXProject "CoffeeBucks" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -188,7 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA4D4EA024B07A5B00F9BBE3 /* ContentView.swift in Sources */,
-				BA4D4E9E24B07A5B00F9BBE3 /* OrderItApp.swift in Sources */,
+				BA4D4E9E24B07A5B00F9BBE3 /* CoffeeBucksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,7 +197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA4D4EA124B07A5B00F9BBE3 /* ContentView.swift in Sources */,
-				BA4D4E9F24B07A5B00F9BBE3 /* OrderItApp.swift in Sources */,
+				BA4D4E9F24B07A5B00F9BBE3 /* CoffeeBucksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,8 +328,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.shaneleigh.OrderIt;
-				PRODUCT_NAME = OrderIt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shaneleigh.CoffeeBucks;
+				PRODUCT_NAME = CoffeeBucks;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -349,8 +349,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.shaneleigh.OrderIt;
-				PRODUCT_NAME = OrderIt;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shaneleigh.CoffeeBucks;
+				PRODUCT_NAME = CoffeeBucks;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -374,7 +374,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.16;
 				PRODUCT_BUNDLE_IDENTIFIER = com.shaneleigh.OrderIt;
-				PRODUCT_NAME = OrderIt;
+				PRODUCT_NAME = CoffeeBucks;
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
@@ -396,7 +396,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.16;
 				PRODUCT_BUNDLE_IDENTIFIER = com.shaneleigh.OrderIt;
-				PRODUCT_NAME = OrderIt;
+				PRODUCT_NAME = CoffeeBucks;
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
@@ -405,7 +405,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BA4D4E8924B07A5900F9BBE3 /* Build configuration list for PBXProject "OrderIt" */ = {
+		BA4D4E8924B07A5900F9BBE3 /* Build configuration list for PBXProject "CoffeeBucks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BA4D4EA424B07A5B00F9BBE3 /* Debug */,
