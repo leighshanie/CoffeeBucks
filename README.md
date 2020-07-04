@@ -1,4 +1,4 @@
-# OrderIt
+# Coffee Bucks
 > An Coffee Order App
 
 [![Swift Version][swift-image]][swift-url]
@@ -29,8 +29,6 @@ git clone https://github.com/leighshanie/OrderIt.git
 ``` 
 
 ## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
