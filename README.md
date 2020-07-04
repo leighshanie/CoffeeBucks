@@ -6,9 +6,8 @@
 [![License][license-image]][license-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-An Coffee Order App.
 
-![](Image/display.png)
+<img src="Image/display.png" height=50% width=50%>
 
 ## Features
 
