@@ -24,14 +24,14 @@
 
 #### Manually
 ```
-git clone https://github.com/leighshanie/OrderIt.git
+git clone https://github.com/leighshanie/CoffeeBucks.git
 ``` 
 
 ## Meta
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/leighshanie/OrderIt.git](https://github.com/leighshanie/OrderIt.git)
+[https://github.com/leighshanie/CoffeeBucks.git](https://github.com/leighshanie/CoffeeBucks.git)
 
 [swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
 [swift-url]: https://swift.org/
